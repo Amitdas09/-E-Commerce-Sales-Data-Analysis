@@ -41,4 +41,13 @@ This project focuses on analyzing e-commerce sales data to uncover valuable insi
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Dashboard Images
+Page-1
+<img width="1121" height="628" alt="image" src="https://github.com/user-attachments/assets/281e7833-a297-46f2-993f-dd3e9e47f5e4" />
+Page-2
+<img width="1116" height="629" alt="image" src="https://github.com/user-attachments/assets/ece70069-a56c-4c6c-8adb-a9cd4dcb2502" />
+Page-3
+<img width="1117" height="626" alt="image" src="https://github.com/user-attachments/assets/63332cde-2ab3-4c3e-858a-000d22e7a0fb" />
+
+
+
