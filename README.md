@@ -28,8 +28,8 @@ This project focuses on analyzing e-commerce sales data to uncover valuable insi
 
 ### 3. Dashboard Creation in Power BI  
 - **Dashboard 1 – Sales Overview:** Revenue, orders, profit trend  
-- **Dashboard 2 – Customer Insights:** Customer segments, purchase frequency, retention  
-- **Dashboard 3 – Product Performance:** Top products, category-wise performance
+- **Dashboard 2 – Customer Insights:**Shipping and Discount Analysis
+- **Dashboard 3 – Product Performance:** Financial Performance & Profitability Analysis
 
 ---
 
